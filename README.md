@@ -1,2 +1,2 @@
 # snakegame
-Created a snake game using pygamek.
+Created a snake game using pygame.
